@@ -37,6 +37,9 @@
 		AC6F5CA41F06C99400E2B2D5 /* whack.caf in Resources */ = {isa = PBXBuildFile; fileRef = AC6F5C8D1F06C99400E2B2D5 /* whack.caf */; };
 		AC6F5CA51F06C99400E2B2D5 /* wrong.caf in Resources */ = {isa = PBXBuildFile; fileRef = AC6F5C8E1F06C99400E2B2D5 /* wrong.caf */; };
 		AC6F5CA61F06C99400E2B2D5 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6F5C8F1F06C99400E2B2D5 /* Helper.swift */; };
+		AC6F5CA81F06D1C800E2B2D5 /* CGPath&UIBazierPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6F5CA71F06D1C800E2B2D5 /* CGPath&UIBazierPath.swift */; };
+		AC6F5CAA1F06E21000E2B2D5 /* Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6F5CA91F06E21000E2B2D5 /* Types.swift */; };
+		AC6F5CAC1F06E39B00E2B2D5 /* MethodsRelatedToEnemies.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC6F5CAB1F06E39B00E2B2D5 /* MethodsRelatedToEnemies.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +75,9 @@
 		AC6F5C8D1F06C99400E2B2D5 /* whack.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = whack.caf; sourceTree = "<group>"; };
 		AC6F5C8E1F06C99400E2B2D5 /* wrong.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = wrong.caf; sourceTree = "<group>"; };
 		AC6F5C8F1F06C99400E2B2D5 /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Helper.swift; path = "../../HackingWithSwift-master/project17-files/Helper.swift"; sourceTree = "<group>"; };
+		AC6F5CA71F06D1C800E2B2D5 /* CGPath&UIBazierPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGPath&UIBazierPath.swift"; sourceTree = "<group>"; };
+		AC6F5CA91F06E21000E2B2D5 /* Types.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Types.swift; sourceTree = "<group>"; };
+		AC6F5CAB1F06E39B00E2B2D5 /* MethodsRelatedToEnemies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MethodsRelatedToEnemies.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,8 +112,11 @@
 			children = (
 				AC6F5C601F06C53000E2B2D5 /* AppDelegate.swift */,
 				AC6F5C621F06C53000E2B2D5 /* GameScene.sks */,
+				AC6F5CA91F06E21000E2B2D5 /* Types.swift */,
 				AC6F5C661F06C53000E2B2D5 /* GameScene.swift */,
 				AC6F5C681F06C53000E2B2D5 /* GameViewController.swift */,
+				AC6F5CA71F06D1C800E2B2D5 /* CGPath&UIBazierPath.swift */,
+				AC6F5CAB1F06E39B00E2B2D5 /* MethodsRelatedToEnemies.swift */,
 				AC6F5C6A1F06C53000E2B2D5 /* Main.storyboard */,
 				AC6F5C781F06C99400E2B2D5 /* Content */,
 				AC6F5C8F1F06C99400E2B2D5 /* Helper.swift */,
@@ -245,6 +254,9 @@
 				AC6F5C671F06C53000E2B2D5 /* GameScene.swift in Sources */,
 				AC6F5C691F06C53000E2B2D5 /* GameViewController.swift in Sources */,
 				AC6F5C611F06C53000E2B2D5 /* AppDelegate.swift in Sources */,
+				AC6F5CAC1F06E39B00E2B2D5 /* MethodsRelatedToEnemies.swift in Sources */,
+				AC6F5CAA1F06E21000E2B2D5 /* Types.swift in Sources */,
+				AC6F5CA81F06D1C800E2B2D5 /* CGPath&UIBazierPath.swift in Sources */,
 				AC6F5CA61F06C99400E2B2D5 /* Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
